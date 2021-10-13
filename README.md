@@ -10,7 +10,7 @@ The installer binary can be found here: https://github.com/UB-Mannheim/tesseract
 ---
 #### Quick usage:
 
-Read a PDF \
+Read a PDF
 
 `mypdf = NonEditablePDF(non_editable_pdf_file_path)`
 
