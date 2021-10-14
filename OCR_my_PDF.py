@@ -4,8 +4,6 @@ Prerequisites:
 1. In order for this script to work, the Tesseract OCR tool for Windows needs to be installed.
 The installer binary can be found here: https://github.com/UB-Mannheim/tesseract/wiki
 2. After the installation, update the tesseract_executable_path with the path to the tesseract executable
-3. After migration to Linux tessearct can be downloaded as explained here:
-https://linuxhint.com/install_tesseract_ocr_linux/
 """
 
 import os
