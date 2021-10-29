@@ -12,7 +12,7 @@ The installer binary can be found [here](https://github.com/UB-Mannheim/tesserac
 
 Read a PDF
 
-`mypdf = NonEditablePDF(non_editable_pdf_file_path)`
+`mypdf = NonEditablePDF(/path/to/pdf_file.pdf)`
 
 Export it as a text file
 
