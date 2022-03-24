@@ -1,4 +1,4 @@
-# OCR my PDF
+# OCR a PDF
 
 #### Short python script used to OCR pdfs
 
